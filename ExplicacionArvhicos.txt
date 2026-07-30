@@ -1,0 +1,4 @@
+el archivo de Docker, inicia Kafka puramente de Python.
+otras versiones no son compatibles
+se debe ejecutar datos.py y se quedara escuchando nuevos datos.
+luego ejecutar productor.py para insertar datos a la base de datos
